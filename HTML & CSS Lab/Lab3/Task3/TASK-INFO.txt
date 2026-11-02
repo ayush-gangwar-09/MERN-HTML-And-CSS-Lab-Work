@@ -1,0 +1,18 @@
+Task 3.3:
+Create text-format.html with two paragraphs of any text. 
+Use strong and em on one word each, and put a line break inside one paragraph.
+
+Sample:
+The strong and em words look bold and italic. The line break starts a new line inside the paragraph.
+
+Aim:
+Create two paragraphs, use strong and em on one word each, and add a line break inside a paragraph.
+
+Procedure:
+1. Create text-format.html.
+2. Add two paragraphs.
+3. Use strong and em around selected words.
+4. Insert br where a new line is required.
+
+Expected output:
+The strong word appears bold, the em word italic, and br starts a new line.

@@ -1,0 +1,19 @@
+Task 1.2: 
+Create index.html inside html-lab with one h1 heading, any text. 
+Run git status, add the file and commit it with the message "Add home page".
+
+Sample:
+git status lists index.html as untracked. The commit line shows 1 file changed.
+
+
+Aim:
+Create index.html with one h1 heading, check status, stage the file and commit it.
+
+Procedure:
+1. Create index.html with an h1.
+2. Run git status.
+3. Run git add index.html.
+4. Commit with message Add home page
+
+output:
+Terminal output showing a successful commit and one file changed.

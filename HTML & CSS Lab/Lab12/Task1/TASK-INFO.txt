@@ -1,0 +1,20 @@
+Task 12.1:
+Create box-model.html with two boxes (div elements). 
+Both have a width of 200px, padding of 20px and a border of 5px. 
+The first uses box-sizing content-box and the second uses border-box.
+
+Sample:
+The content-box box is wider than the border-box box.
+
+
+Aim:
+Create two boxes with width 200px, padding 20px and border 5px; use content-box for one and border-box for the other.
+
+Procedure:
+1. Create box-model.html.
+2. Add two divs.
+3. Apply equal width, padding and border.
+4. Set box-sizing differently and compare widths.
+
+Expected output:
+The content-box element is wider than the border-box element.

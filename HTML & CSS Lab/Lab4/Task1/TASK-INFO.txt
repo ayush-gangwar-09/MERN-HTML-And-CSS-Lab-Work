@@ -1,0 +1,18 @@
+Task 4.1: 
+Create layout.html with three div blocks: one with the class header, 
+one with the class main and one with the class footer. Put some text in each.
+
+Sample:
+Three blocks in order: header, main and footer.
+
+Aim:
+Create three div blocks with the classes header, main and footer, each containing text.
+
+Procedure:
+1. Create layout.html.
+2. Add header, main and footer divs.
+3. Assign each the required class.
+4. Open the page in a browser.
+
+Expected output:
+Three blocks appear in header, main and footer order.

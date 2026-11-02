@@ -1,0 +1,19 @@
+Task 10.2:
+Create style.css with rules for: all h1 elements (navy), the class note (italic), 
+the id title (underlined), and all p elements (font size 18px and a grey colour).
+
+Sample:
+Once linked, the headings, notes and paragraphs use the new styles.
+
+
+Aim:
+Create CSS rules for all h1 elements, .note, #title and all p elements.
+
+Procedure:
+1. Create style.css.
+2. Set h1 to navy.
+3. Set .note to italic and #title to underlined.
+4. Set p font size to 18px and text colour to grey.
+
+Expected output:
+Once linked, headings, notes and paragraphs use the specified styles.

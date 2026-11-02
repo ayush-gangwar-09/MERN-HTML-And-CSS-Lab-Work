@@ -1,0 +1,20 @@
+Task 13.1:
+Create nav-flex.html with a horizontal navigation bar (a nav element) of four links: 
+Home, About, Events and Contact. 
+Use display flex for the bar, give it a dark background and make the link text white.
+
+Sample:
+A dark bar with four white links side by side.
+
+
+Aim:
+Create a horizontal nav with Home, About, Events and Contact using display:flex, dark background and white link text.
+
+Procedure:
+1. Create nav-flex.html.
+2. Add a nav with four anchor links.
+3. Set display:flex and a dark background.
+4. Style links white with spacing.
+
+Expected output:
+A dark navigation bar displays four white links side by side.

@@ -1,0 +1,18 @@
+Task 1.3:
+Add a second heading, an h2, below the first one in index.html. 
+Commit it with the message "Add next meeting heading", then run git log --oneline.
+
+Sample:
+Two commits are listed, the newest one first.
+
+Aim:
+Add an h2 heading below the h1, commit the change and display the one-line history.
+
+Procedure:
+1. Add an h2 to index.html.
+2. Save the file.
+3. Stage and commit the change with the requested message.
+4. Run git log --oneline.
+
+Expected output:
+Terminal output listing both commits, newest first.

@@ -1,0 +1,21 @@
+Task 10.1: 
+Create inline-internal.html. In the head, add an internal style block 
+that makes h1 navy and gives the class highlight a yellow background. 
+In the body, add an h1 heading, a paragraph with an inline style 
+that makes its text red, and a paragraph with the class highlight.
+
+Sample:
+A navy heading, one red paragraph and one yellow paragraph.
+
+
+Aim:
+Add internal CSS to make h1 navy and .highlight yellow; add a red inline-styled paragraph and a highlight paragraph.
+
+Procedure:
+1. Create inline-internal.html.
+2. Add internal rules for h1 and .highlight.
+3. Add one paragraph with inline red text.
+4. Add a paragraph with class highlight.
+
+Expected output:
+A navy heading, red paragraph and yellow-highlighted paragraph appear.

@@ -1,0 +1,20 @@
+Task 9.1:
+Create marks.html with a table that has the caption Marks of Class A.
+Use thead for the header row (Name, Maths, Science) and 
+tbody for three rows: Asha 78 85, Rohan 64 70 and Neha 91 88.
+
+Sample:
+A table with a header row and three student rows.
+
+
+Aim:
+Create a table captioned Marks of Class A, with Name, Maths and Science headers and three student rows.
+
+Procedure:
+1. Create marks.html.
+2. Add a table and caption.
+3. Add a thead row with three headers.
+4. Add tbody rows for Asha, Rohan and Neha.
+
+Expected output:
+A table displays the caption, header row and three student rows.

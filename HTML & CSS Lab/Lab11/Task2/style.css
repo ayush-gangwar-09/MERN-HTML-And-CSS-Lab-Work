@@ -1,0 +1,26 @@
+/* CSS Variables */
+:root {
+  --main-color: #1d3557;
+  --accent-color: #e63946;
+  --page-padding: 20px;
+}
+
+/* Body Styles */
+body {
+  background-color: var(--main-color);
+  padding: var(--page-padding);
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+/* Heading Styles */
+h1 {
+  color: var(--accent-color);
+  font-size: 2rem;
+}
+
+/* Paragraph Styles */
+p {
+  font-size: 1rem;
+  line-height: 1.6;
+}

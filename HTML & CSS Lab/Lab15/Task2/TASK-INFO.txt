@@ -1,0 +1,21 @@
+Task 15.2: 
+Create responsive-image.html with a heading and one picture from the images folder. 
+Set the picture to max-width 100% and height auto, so it shrinks to fit a narrow window. 
+Use the file name your instructor gives you.
+
+
+Sample:
+On a narrow window the picture shrinks to fit. On a wide window it keeps its own size.
+
+
+Aim:
+Create a heading and an image from the images folder with max-width:100% and height:auto.
+
+Procedure:
+1. Create responsive-image.html.
+2. Add the instructor-provided image inside images.
+3. Set max-width:100% and height:auto.
+4. Resize the browser to check the image.
+
+Expected output:
+The image shrinks to fit a narrow window and keeps its aspect ratio.

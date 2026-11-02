@@ -1,0 +1,18 @@
+Task 8.1:
+Create signup.html with a form (method post, action thanks.html; you do not need to create thanks.html). 
+Add labelled fields for full name, email and password. Each label must be linked to its field.
+
+Sample:
+Three labelled boxes. The password box hides the characters you type.
+
+Aim:
+Create a form with method post, action thanks.html, labelled full name, email and password fields.
+
+Procedure:
+1. Create signup.html.
+2. Add a form with method post and action thanks.html.
+3. Add labels and matching input ids for name, email and password.
+4. Add a submit button.
+
+Expected output:
+Three labelled fields appear; password characters are hidden when typed.

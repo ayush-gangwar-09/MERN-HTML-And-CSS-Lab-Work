@@ -1,0 +1,19 @@
+Task 9.3:
+Create marks-accessible.html with the same caption, header and Asha and Rohan rows, 
+without the footer row. Add scope="col" to each header cell and scope="row" to each name cell.
+
+Sample:
+The table looks the same. The header and name cells carry scope attributes (check in the Elements panel).
+
+
+Aim:
+Create the same caption, header and Asha/Rohan rows, adding scope="col" to headers and scope="row" to name cells.
+
+Procedure:
+1. Create marks-accessible.html.
+2. Add the caption and header cells with scope="col".
+3. Add Asha and Rohan rows.
+4. Add scope="row" to each name cell.
+
+Expected output:
+The table looks similar to marks.html; header and name cells carry scope attributes.

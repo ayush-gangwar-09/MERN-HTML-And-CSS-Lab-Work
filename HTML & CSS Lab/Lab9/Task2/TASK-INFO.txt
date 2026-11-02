@@ -1,0 +1,21 @@
+Task 9.2: 
+Create marks-average.html with the same caption and header as marks.html, 
+the Asha and Rohan rows (leave out Neha), and a tfoot row called Class 
+average with the average Maths and Science marks of the two students.
+
+
+Sample:
+The footer row at the bottom shows the two averages.
+
+
+Aim:
+Create the same caption and headers, include Asha and Rohan only, and show their average Maths and Science marks in tfoot.
+
+Procedure:
+1. Create marks-average.html.
+2. Add caption and thead.
+3. Add Asha and Rohan to tbody.
+4. Add a tfoot row with Class average, 71 and 77.5.
+
+Expected output:
+The footer row shows Maths average 71 and Science average 77.5.

@@ -1,0 +1,18 @@
+Task 2.1: 
+Run git init --bare ../html-remote inside html-lab to create an empty repository next to it. 
+Then add it as origin with git remote add origin ../html-remote, and run git remote -v.
+
+Sample:
+git remote -v lists origin for fetch and for push.
+
+
+Aim:
+Create a bare repository next to html-lab, add it as origin and list remotes.
+
+Procedure:
+1. From inside html-lab, create ../html-remote with git init --bare.
+2. Add it as origin.
+3. Run git remote -v.
+
+Expected output:
+Terminal output showing origin for fetch and push.

@@ -1,0 +1,37 @@
+/* Base Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+/* Main Heading */
+h1 {
+  text-align: center;
+  color: darkblue;
+  margin-bottom: 30px;
+}
+
+/* Card Styling */
+.card {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 16px;
+  background-color: lightblue;
+  border: 2px solid steelblue;
+  border-radius: 12px;
+}
+
+/* Card Heading */
+.card h3 {
+  color: darkblue;
+  margin-top: 0;
+}
+
+/* Card Paragraph */
+.card p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+}

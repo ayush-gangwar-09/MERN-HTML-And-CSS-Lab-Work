@@ -1,0 +1,30 @@
+Task 4.3:
+Find and fix every error in the broken page below, then save it as attendance-fixed.html.
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Attendance</title>
+</head>
+<body>
+<h1>Attendance Report
+<p>Asha: 92%<p>
+<p>Rohan: 85%</p>
+</body>
+</html>
+
+
+Sample:
+The corrected page shows the heading Attendance Report and two lines: Asha: 92% and Rohan: 85%.
+
+Aim:
+Correct the missing closing tags in the supplied Attendance page.
+
+Procedure:
+1. Create attendance-fixed.html.
+2. Close the h1 element.
+3. Correct the first p element's closing tag.
+4. Open the corrected file in a browser.
+
+Expected output:
+The heading and both attendance lines display correctly.

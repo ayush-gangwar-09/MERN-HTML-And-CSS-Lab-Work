@@ -1,0 +1,19 @@
+Task 6.2:
+Create canteen-menu.html with the heading Canteen Menu, a numbered list of two items: 
+Samosa and Sandwich. Under Sandwich, add a nested numbered list of two items: Cheese and Vegetable.
+
+Sample:
+Two numbered items, and a smaller numbered list under the second one.
+
+
+Aim:
+Create a numbered list of Samosa and Sandwich, with a nested numbered list Cheese and Vegetable under Sandwich.
+
+Procedure:
+1. Create canteen-menu.html.
+2. Add an h1 heading.
+3. Create an ol with Samosa and Sandwich.
+4. Nest a second ol under Sandwich with Cheese and Vegetable.
+
+Expected output:
+Two main numbered items appear, with a smaller numbered list under Sandwich.

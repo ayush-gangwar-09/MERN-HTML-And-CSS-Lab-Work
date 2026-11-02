@@ -1,0 +1,21 @@
+Task 10.3:
+Create linked.html that links style.css. 
+It has an h1 with the id title and two paragraphs with the class note. 
+Write any text in them.
+
+
+Sample:
+The page is styled only when style.css is in the same folder.
+
+
+Aim:
+Link style.css and create an h1 with id title plus two paragraphs with class note.
+
+Procedure:
+1. Create linked.html and style.css in the same folder.
+2. Link style.css in head.
+3. Add h1 id="title".
+4. Add two paragraphs with class="note" and open the page.
+
+Expected output:
+The page is styled when style.css is correctly linked.

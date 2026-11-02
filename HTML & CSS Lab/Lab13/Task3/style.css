@@ -1,0 +1,46 @@
+/* Base Styles */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+/* Heading */
+h1 {
+  text-align: center;
+  color: darkblue;
+  margin-bottom: 30px;
+}
+
+/* Flexbox Container */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Product Cards */
+.card {
+  width: 200px;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Heading */
+.card h2 {
+  color: #2563eb;
+  font-size: 22px;
+}
+
+/* Card Price */
+.card p {
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+}

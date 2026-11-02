@@ -1,0 +1,18 @@
+Task 12.3:
+Create scroll.html with a div box of fixed height 120px and overflow set to auto. 
+Put five lines of text inside it as paragraphs, Line 1 to Line 5.
+
+Sample:
+The lines do not fit in the box, so the box can be scrolled.
+
+Aim:
+Create a fixed-height 120px div with overflow auto and five paragraph lines.
+
+Procedure:
+1. Create scroll.html.
+2. Add a div with class scroll-box.
+3. Set height to 120px and overflow to auto.
+4. Add five paragraphs and test scrolling.
+
+Expected output:
+The lines do not all fit in the box at once; the box can be scrolled.

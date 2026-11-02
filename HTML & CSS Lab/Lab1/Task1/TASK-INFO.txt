@@ -1,0 +1,20 @@
+Task 1.1:
+Create a folder named html-lab and start a Git repository in it with git init. 
+Set your own name and email for this repository only (git config --local). 
+Then show them with git config user.name and git config user.email.
+
+Sample:
+Each git config command prints the value you set.
+
+
+Aim:
+Create a folder named html-lab, initialize Git, set local user name/email, and display the configured values.
+
+Procedure:
+1. Create and open the html-lab folder.
+2. Run git init.
+3. Set user.name and user.email with --local.
+4. Display both values.
+
+output:
+Terminal output showing repository initialization and configured name/email.

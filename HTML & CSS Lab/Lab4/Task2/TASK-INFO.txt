@@ -1,0 +1,19 @@
+Task 4.2:
+Create attributes.html. Give one div the id profile. 
+Inside it, add a paragraph with the attribute data-topic set to hobbies. Write any text in the paragraph.
+
+Sample:
+The paragraph text shows. The data-topic attribute is not visible on the page.
+
+
+Aim:
+Give a div the id profile and put a paragraph inside it with data-topic="hobbies".
+
+Procedure:
+1. Create attributes.html.
+2. Add a div with id profile.
+3. Add a paragraph with data-topic="hobbies".
+4. Open the page and inspect the element if needed.
+
+Expected output:
+Paragraph text appears; the data-topic attribute is not visible on the page.

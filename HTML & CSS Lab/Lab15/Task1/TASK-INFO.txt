@@ -1,0 +1,21 @@
+Task 15.1: 
+Create mobile-first.html with the viewport meta tag in the head, 
+and a div with the class cards holding two cards (class card), 
+each with an h2 heading and a paragraph. Write base styles for phones, 
+then add a media query for screens 600px wide and up that shows the cards side by side.
+
+Sample:
+On a phone the cards stack. At 600px and up they sit two per row.
+
+
+Aim:
+Create a viewport meta tag and two cards that stack on phones and sit side by side at 600px and wider.
+
+Procedure:
+1. Create mobile-first.html with the viewport meta tag.
+2. Add a cards container with two cards.
+3. Style the cards to stack by default.
+4. Add a min-width: 600px media query to display them side by side.
+
+Expected output:
+On a phone the cards stack; at 600px and above they sit side by side.

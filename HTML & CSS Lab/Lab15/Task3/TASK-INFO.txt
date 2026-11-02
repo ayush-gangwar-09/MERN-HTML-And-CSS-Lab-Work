@@ -1,0 +1,20 @@
+Task 15.3: 
+Create responsive-text.html with an h1 heading and a paragraph. 
+Set the body font size to 1rem and the h1 to 1.5rem. 
+Add a media query for screens 600px wide and up that sets the h1 to 2.5rem.
+
+Sample:
+The heading is larger when the window is 600px wide or more.
+
+
+Aim:
+Create an h1 and paragraph, set body font size to 1rem and h1 to 1.5rem, then set h1 to 2.5rem at 600px and up.
+
+Procedure:
+1. Create responsive-text.html.
+2. Set body font size to 1rem and h1 to 1.5rem.
+3. Add a min-width:600px media query.
+4. Set h1 font size to 2.5rem in that query and test at different widths.
+
+Expected output:
+The heading becomes larger when the viewport is at least 600px wide.

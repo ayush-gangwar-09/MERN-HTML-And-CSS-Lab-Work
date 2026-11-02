@@ -1,0 +1,43 @@
+/* CSS Variables */
+:root {
+  --primary-color: #1d3557;
+  --accent-color: #e63946;
+  --heading-size: 2rem;
+  --spacing: 16px;
+}
+
+/* Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--primary-color);
+  color: white;
+  padding: var(--spacing);
+  margin: 0;
+}
+
+/* Main Heading */
+h1 {
+  color: var(--accent-color);
+  font-size: var(--heading-size);
+  text-align: center;
+}
+
+/* Card Styles */
+.card {
+  background-color: white;
+  color: var(--primary-color);
+  padding: var(--spacing);
+  margin-top: var(--spacing);
+  border-radius: 8px;
+}
+
+/* Card Heading */
+.card h2 {
+  color: var(--accent-color);
+  font-size: var(--heading-size);
+}
+
+/* Paragraph */
+p {
+  line-height: 1.6;
+}

@@ -1,0 +1,18 @@
+Task 7.1: Create about-me.html structure
+Create about-me.html with a header (an h1 with your name, and a nav with 
+two links: About to #about and Contact to #contact), an empty main and an empty footer.
+
+Sample:
+Your name at the top with two links. The middle and bottom are empty.
+
+Aim:
+Create a header with your name in h1 and a nav with About and Contact links; include empty main and footer.
+
+Procedure:
+1. Create about-me.html.
+2. Add header, h1 and nav.
+3. Link About to #about and Contact to #contact.
+4. Add empty main and footer elements.
+
+Expected output:
+Your name and two navigation links appear at the top; main and footer are empty.

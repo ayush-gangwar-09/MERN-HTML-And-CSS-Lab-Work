@@ -1,0 +1,28 @@
+/* Base Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Navigation Bar */
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #222;
+  padding: 20px;
+}
+
+/* Navigation Links */
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px 15px;
+}
+
+/* Hover Effect */
+.navbar a:hover {
+  background-color: #444;
+  border-radius: 5px;
+}

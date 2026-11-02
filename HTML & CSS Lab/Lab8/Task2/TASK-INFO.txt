@@ -1,0 +1,19 @@
+Task 8.2: 
+Create choices.html with a gender question using two radio buttons, 
+Female and Male, and a course dropdown with the options BCA and B.Tech.
+
+Sample:
+Only one gender can be selected. The dropdown shows the two courses.
+
+
+Aim:
+Create a gender question with Female and Male radio buttons and a course dropdown with BCA and B.Tech.
+
+Procedure:
+1. Create choices.html.
+2. Add two radio buttons with the same name.
+3. Add a select element with BCA and B.Tech options.
+4. Open the page and test the choices.
+
+Expected output:
+Only one radio option can be selected; the dropdown contains BCA and B.Tech.

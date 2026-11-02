@@ -1,0 +1,20 @@
+Task 11.3:
+Create tokens.css with variables for a primary colour (#1d3557), 
+an accent colour (#e63946), a heading size (2rem) and a spacing value (16px). 
+Use them for the body colour and padding, and for the h1 colour and size.
+
+Sample:
+Linked to a page, the file sets the colours, heading size and spacing.
+
+
+Aim:
+Create tokens.css with primary, accent, heading-size and spacing variables and use them for body and h1 styles.
+
+Procedure:
+1. Create tokens.css.
+2. Define the four requested variables in :root.
+3. Use variables for body colour and padding.
+4. Use accent colour and heading size for h1.
+
+Expected output:
+When linked to a page, body colour, padding, h1 colour and size use the token values.

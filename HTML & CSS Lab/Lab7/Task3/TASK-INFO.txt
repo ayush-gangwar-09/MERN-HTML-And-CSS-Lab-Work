@@ -1,0 +1,18 @@
+Task 7.3:
+Add a paragraph inside the footer with a link to your email address (use mailto: in the href). 
+Give the footer the id contact.
+
+Sample:
+The footer shows a clickable email address. The Contact link in the top nav jumps to it.
+
+Aim:
+Add a paragraph in the footer with an email link using mailto: and give the footer id contact.
+
+Procedure:
+1. Give footer the id contact.
+2. Add a paragraph containing an anchor with a mailto: href.
+3. Save the file.
+4. Test the Contact navigation link.
+
+Expected output:
+The footer shows a clickable email address and Contact jumps to it.

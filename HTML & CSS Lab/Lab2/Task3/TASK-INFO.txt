@@ -1,0 +1,17 @@
+Task 2.3:
+Go up one folder from html-lab (cd ..) and clone html-remote into a new folder named html-copy 
+with git clone html-remote html-copy. Then go into html-copy and run git log --oneline.
+
+Sample:
+The same commits appear in html-copy as in html-lab.
+
+Aim:
+Clone html-remote into html-copy and display its commit history.
+
+Procedure:
+1. Move to the parent folder.
+2. Run git clone html-remote html-copy.
+3. Enter html-copy and run git log --oneline.
+
+Expected output:
+Terminal output showing the same commits in html-copy.

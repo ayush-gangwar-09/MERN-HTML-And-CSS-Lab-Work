@@ -1,0 +1,19 @@
+Task 14.2:
+Create gallery.html with an h1 heading Club Photo Gallery and six boxes labelled Photo 1 to Photo 6. 
+Use grid-template-columns with repeat(auto-fill, minmax(150px, 1fr)) and a gap of 10px.
+
+Sample:
+As the window gets wider, more boxes fit in each row.
+
+
+Aim:
+Create a Club Photo Gallery heading and six labelled boxes using repeat(auto-fill, minmax(150px, 1fr)) with 10px gap.
+
+Procedure:
+1. Create gallery.html.
+2. Add the heading and six photo boxes.
+3. Set grid-template-columns to repeat(auto-fill, minmax(150px, 1fr)).
+4. Set gap to 10px and resize the browser.
+
+Expected output:
+As the window gets wider, more boxes fit in each row.

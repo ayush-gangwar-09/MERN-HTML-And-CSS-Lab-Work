@@ -1,0 +1,19 @@
+Task 14.1:
+Create grid-first.html with six boxes (div elements) showing the numbers 1 to 6, 
+in a grid of three equal columns (fr units) with a gap of 12px.
+
+Sample:
+Six boxes in two rows of three, with small gaps.
+
+
+Aim:
+Create six numbered boxes in a grid of three equal columns with a 12px gap.
+
+Procedure:
+1. Create grid-first.html.
+2. Add six div boxes numbered 1 to 6.
+3. Set display:grid and three equal 1fr columns.
+4. Set gap to 12px.
+
+Expected output:
+Six boxes appear in two rows of three with small gaps.

@@ -1,0 +1,20 @@
+Task 13.3: 
+Create wrapping-cards.html with the heading Stationery Shop and four cards in a flex-wrap row: 
+Notebook (price 60), Pen (price 15), Bag (price 350) and Book (price 120). 
+Narrow the browser window to check the wrapping.
+
+Sample:
+On a narrow window, the cards wrap onto new rows.
+
+
+Aim:
+Create Stationery Shop with four cards in a flex-wrap row: Notebook 60, Pen 15, Bag 350 and Book 120.
+
+Procedure:
+1. Create wrapping-cards.html.
+2. Add the Stationery Shop heading.
+3. Add four cards with product names and prices.
+4. Set display:flex and flex-wrap:wrap, then narrow the browser window.
+
+Expected output:
+Cards wrap onto new rows when the browser window is narrow.

@@ -1,0 +1,30 @@
+/* Base Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+
+/* Main Heading */
+h1 {
+  color: darkblue;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* Scrollable Box */
+.scroll-box {
+  height: 120px;
+  overflow: auto;
+  padding: 15px;
+  border: 2px solid steelblue;
+  background-color: white;
+  border-radius: 8px;
+}
+
+/* Paragraph Styles */
+.scroll-box p {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #333;
+}

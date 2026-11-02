@@ -1,0 +1,19 @@
+Task 6.1:
+Create shopping-list.html with the heading Shopping List 
+and an unordered list of three items: Notebook, Pen and Bag.
+
+Sample:
+Three bullet points.
+
+
+Aim:
+Create a Shopping List heading and an unordered list containing Notebook, Pen and Bag.
+
+Procedure:
+1. Create shopping-list.html.
+2. Add the heading.
+3. Add a ul with three li elements.
+4. Open the page in a browser.
+
+Expected output:
+Three bullet points appear.

@@ -1,0 +1,19 @@
+Task 8.3:
+Create signup-required.html with a full name field and an email field. 
+Make both required, add a placeholder to the name field, and add a Submit button.
+
+Sample:
+Leaving a required field empty shows a message from the browser.
+
+Aim:
+Create full name and email fields, make both required, add a placeholder to the name field and a submit button.
+
+Procedure:
+1. Create signup-required.html.
+2. Add name and email fields.
+3. Add required to both inputs.
+4. Add a name placeholder and Submit button.
+5. Test submitting with empty fields.
+
+Expected output:
+The browser displays a validation message when a required field is empty.

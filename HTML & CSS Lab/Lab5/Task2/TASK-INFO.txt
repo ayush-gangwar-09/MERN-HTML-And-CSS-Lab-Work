@@ -1,0 +1,19 @@
+Task 5.2:
+Create portfolio.html with a heading and a link back 
+to home.html. Write any text for the link.
+
+Sample:
+The link goes back to the home page.
+
+
+Aim:
+Create portfolio.html with a heading and a link back to home.html.
+
+Procedure:
+1. Create portfolio.html.
+2. Add a heading and some portfolio text.
+3. Add a link to home.html.
+4. Test navigation in the browser.
+
+Expected output:
+The link returns to the home page.

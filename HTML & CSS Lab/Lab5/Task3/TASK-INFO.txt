@@ -1,0 +1,20 @@
+Task 5.3:
+Create portfolio-image.html with a heading and a picture from the images folder. 
+Set its width and height to 200 each, and write alt text that describes it. 
+Use the file name your instructor gives you.
+
+
+Sample:
+A 200 by 200 photo under the heading. If the picture is missing, the alt text shows instead.
+
+Aim:
+Create a page with a heading and a picture from the images folder, width and height 200, with descriptive alt text.
+
+Procedure:
+1. Create portfolio-image.html.
+2. Put the instructor-provided image in an images folder.
+3. Use the correct relative image path.
+4. Set width and height to 200 and provide alt text.
+
+Expected output:
+A 200 by 200 image appears below the heading; alt text appears if the image is unavailable.

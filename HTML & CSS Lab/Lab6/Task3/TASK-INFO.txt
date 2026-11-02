@@ -1,0 +1,19 @@
+Task 6.3:
+Create faq.html with a description list of two questions: 
+How many books can I borrow? and Is the library open on Sunday? 
+Put each question in a dt element and write an answer in a dd element.
+
+Sample:
+Two questions, each followed by its answer.
+
+Aim:
+Create a description list with two questions as dt elements and answers as dd elements.
+
+Procedure:
+1. Create faq.html.
+2. Add a dl element.
+3. Add each question in dt and its answer in dd.
+4. Open the page in a browser.
+
+Expected output:
+Each question is followed by its answer.

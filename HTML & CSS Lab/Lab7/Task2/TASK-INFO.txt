@@ -1,0 +1,19 @@
+Task 7.2:
+Add a section inside main with the id about. 
+Give it an h2 heading About me and one paragraph about yourself.
+
+Sample:
+The About me heading and a paragraph appear under the top links.
+
+
+Aim:
+Add a section with id about inside main, with an h2 heading and a paragraph about yourself.
+
+Procedure:
+1. Open about-me.html.
+2. Inside main, add section id="about".
+3. Add an h2 and a short paragraph.
+4. Save and test the About link.
+
+Expected output:
+The About me heading and paragraph appear under the navigation.

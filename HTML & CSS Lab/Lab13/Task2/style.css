@@ -1,0 +1,43 @@
+/* Base Styles */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+  color: #222;
+  margin-bottom: 30px;
+}
+
+/* Flexbox Row */
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+/* Pricing Cards */
+.card {
+  width: 200px;
+  padding: 25px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  color: darkblue;
+  font-size: 22px;
+}
+
+.card p {
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+}

@@ -1,0 +1,19 @@
+Task 3.2:
+Create headings.html with an h1 heading, an h2 heading, 
+an h3 heading and one paragraph. Write any text for them.
+
+Sample:
+Three headings, each smaller than the one above, and a paragraph under them.
+
+
+Aim:
+Create h1, h2 and h3 headings followed by a paragraph.
+
+Procedure:
+1. Create headings.html.
+2. Add h1, h2 and h3 in order.
+3. Add a paragraph below the headings.
+4. Open the page in a browser.
+
+Expected output:
+Three progressively smaller headings and a paragraph are visible.

@@ -1,0 +1,19 @@
+Task 5.1: 
+Create home.html with the heading Welcome to My Site and a paragraph 
+with a link to portfolio.html. The link text is portfolio.
+
+Sample:
+Clicking the word portfolio opens the portfolio page.
+
+
+Aim:
+Create home.html with a Welcome to My Site heading and a paragraph linking to portfolio.html.
+
+Procedure:
+1. Create home.html.
+2. Add the heading and paragraph.
+3. Add an anchor with href="portfolio.html" and link text portfolio.
+4. Keep portfolio.html in the same folder.
+
+Expected output:
+Clicking portfolio opens portfolio.html when that file is present.

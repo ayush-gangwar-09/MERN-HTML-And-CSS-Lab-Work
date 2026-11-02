@@ -1,0 +1,19 @@
+Task 12.2:
+Create card.html with one card: a div with the class card 
+that has a background colour, a 2px border, rounded corners (border-radius 12px) and padding of 16px.
+Put an h3 heading and a paragraph inside it.
+
+Sample:
+A card with rounded corners, a border and a coloured background.
+
+Aim:
+Create a card div with a background, 2px border, 12px rounded corners and 16px padding; include h3 and paragraph.
+
+Procedure:
+1. Create card.html.
+2. Add a div with class card.
+3. Add h3 and paragraph.
+4. Apply the specified background, border, radius and padding.
+
+Expected output:
+A coloured card with rounded corners, border and padding appears.

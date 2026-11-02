@@ -1,0 +1,20 @@
+/* Heading Selector */
+h1 {
+  color: navy;
+}
+
+/* Class Selector */
+.note {
+  font-style: italic;
+}
+
+/* ID Selector */
+#title {
+  text-decoration: underline;
+}
+
+/* Paragraph Selector */
+p {
+  font-size: 18px;
+  color: grey;
+}

@@ -1,0 +1,20 @@
+Task 14.3:
+Create dashboard-areas.html with a grid of two columns, 200px and 1fr. 
+Use grid-template-areas to place a header and a footer across both columns, 
+a sidebar on the left and a main area on the right.
+
+Sample:
+A header across the top, a sidebar on the left, a main area on the right and a footer at the bottom.
+
+
+Aim:
+Create a two-column grid with columns 200px and 1fr; use grid-template-areas for header, sidebar, main and footer.
+
+Procedure:
+1. Create dashboard-areas.html.
+2. Add header, sidebar, main and footer elements.
+3. Define two columns: 200px and 1fr.
+4. Use grid-template-areas so header and footer span both columns.
+
+Expected output:
+Header spans the top; sidebar is left, main is right and footer spans the bottom.

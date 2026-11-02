@@ -1,0 +1,20 @@
+Task 13.2
+Create centred-cards.html with a div (class row) holding three cards (class card) in one row. 
+Each card has an h3 heading (Starter, Standard, Premium) and a paragraph with the price 199, 349 or 499. 
+Use justify-content and align-items to centre the cards in the row.
+
+Sample:
+Three cards in one row, centred in the row.
+
+
+Aim:
+Create a row div holding Starter, Standard and Premium cards with prices 199, 349 and 499. Center them using justify-content and align-items.
+
+Procedure:
+1. Create centred-cards.html.
+2. Add a row container and three cards.
+3. Add the requested headings and prices.
+4. Use display:flex, justify-content and align-items.
+
+Expected output:
+Three cards appear in one centered row.

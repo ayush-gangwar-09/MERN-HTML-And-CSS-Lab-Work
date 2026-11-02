@@ -1,0 +1,16 @@
+Task 11.1:
+Create units.html with a div box 200px wide and 40px high, 
+a div box 50% wide and 40px high, and a paragraph of any text at font size 1.5rem. 
+Give both boxes a background colour.
+
+Aim:
+Create a 200px-wide box, a 50%-wide box, both 40px high, and a paragraph with font size 1.5rem.
+
+Procedure:
+1. Create units.html.
+2. Add two div boxes and a paragraph.
+3. Style the boxes with required dimensions and background colours.
+4. Set paragraph font-size to 1.5rem.
+
+Expected output:
+A 200px box, a half-width box and larger text appear.

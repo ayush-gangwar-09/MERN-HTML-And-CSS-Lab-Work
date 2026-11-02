@@ -1,0 +1,17 @@
+Task 2.2:
+Push your commits to origin with git push origin main. 
+If git status shows On branch master, use git push origin master instead.
+
+Sample:
+The push ends with a line that shows the branch, such as main -> main.
+
+
+Aim:
+Push the current branch and its commits to origin.
+
+Procedure:
+1. Check the current branch with git branch --show-current.
+2. Push using git push origin main, or use master if that is the current branch.
+
+Expected output:
+Terminal output confirming the branch was pushed.
