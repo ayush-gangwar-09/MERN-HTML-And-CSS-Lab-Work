@@ -218,7 +218,8 @@ HTML & CSS Lab/
 ## 👨‍💻 Author
 
 - Name: Ayush Kumar
-- ID : 552
+- ID : BCS2024552
+- Section - D
 - Course: B.Tech Computer Science and Engineering
 - Subject: HTML & CSS Development Lab (BCS554)
 - University: Invertis University, Bareilly
