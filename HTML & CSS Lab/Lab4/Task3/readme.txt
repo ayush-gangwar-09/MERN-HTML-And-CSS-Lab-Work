@@ -32,7 +32,7 @@ attendance-fixed.html
 
 Input: Attendance Report; Asha: 92%; Rohan: 85%.
 
-Expected Output: The heading and both attendance lines display correctly.
+Output: The heading and both attendance lines display correctly.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

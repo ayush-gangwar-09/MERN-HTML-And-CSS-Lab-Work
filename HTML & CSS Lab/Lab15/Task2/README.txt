@@ -65,7 +65,7 @@ img {
 
 Input: Image file placed in an images folder.
 
-Expected Output: The image shrinks to fit a narrow window and keeps its aspect ratio.
+Output: The image shrinks to fit a narrow window and keeps its aspect ratio.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

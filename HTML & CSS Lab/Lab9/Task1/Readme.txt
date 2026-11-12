@@ -62,7 +62,7 @@ marks.html
 
 Input: Asha 78 85; Rohan 64 70; Neha 91 88.
 
-Expected Output: A table displays the caption, header row and three student rows.
+Output: A table displays the caption, header row and three student rows.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

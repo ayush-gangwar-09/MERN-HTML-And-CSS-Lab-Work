@@ -66,7 +66,7 @@ body {
 
 Input: Home, About, Events, Contact.
 
-Expected Output: A dark navigation bar displays four white links side by side.
+Output: A dark navigation bar displays four white links side by side.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

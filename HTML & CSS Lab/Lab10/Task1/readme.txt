@@ -48,7 +48,7 @@ inline-internal.html
 
 Input: Any heading and two paragraph texts.
 
-Expected Output: A navy heading, red paragraph and yellow-highlighted paragraph appear.
+Output: A navy heading, red paragraph and yellow-highlighted paragraph appear.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

@@ -114,7 +114,7 @@ h2 {
 
 Input: Header, sidebar, main and footer content.
 
-Expected Output: Header spans the top; sidebar is left, main is right and footer spans the bottom.
+Output: Header spans the top; sidebar is left, main is right and footer spans the bottom.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

@@ -31,7 +31,7 @@ portfolio-image.html
 
 Input: Image file placed in images folder.
 
-Expected Output: A 200 by 200 image appears below the heading; alt text appears if the image is unavailable.
+Output: A 200 by 200 image appears below the heading; alt text appears if the image is unavailable.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

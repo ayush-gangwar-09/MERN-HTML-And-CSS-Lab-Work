@@ -68,7 +68,7 @@ p {
 
 Input: No input values required.
 
-Expected Output: Once linked, headings, notes and paragraphs use the specified styles.
+Output: Once linked, headings, notes and paragraphs use the specified styles.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

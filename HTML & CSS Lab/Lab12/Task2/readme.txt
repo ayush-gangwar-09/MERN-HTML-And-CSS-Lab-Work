@@ -78,7 +78,7 @@ h1 {
 
 Input: Card heading and description.
 
-Expected Output: A coloured card with rounded corners, border and padding appears.
+Output: A coloured card with rounded corners, border and padding appears.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

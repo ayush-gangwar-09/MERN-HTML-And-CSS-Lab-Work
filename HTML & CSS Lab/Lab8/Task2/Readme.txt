@@ -64,7 +64,7 @@ choices.html
 
 Input: Select one gender option and one course.
 
-Expected Output: Only one radio option can be selected; the dropdown contains BCA and B.Tech.
+Output: Only one radio option can be selected; the dropdown contains BCA and B.Tech.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

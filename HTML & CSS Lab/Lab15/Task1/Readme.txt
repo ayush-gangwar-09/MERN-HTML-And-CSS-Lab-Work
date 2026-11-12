@@ -59,7 +59,7 @@ style.css
 
 Input: Two cards with headings and paragraphs.
 
-Expected Output: On a phone the cards stack; at 600px and above they sit side by side.
+Output: On a phone the cards stack; at 600px and above they sit side by side.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

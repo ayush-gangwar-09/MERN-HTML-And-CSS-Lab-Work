@@ -93,7 +93,7 @@ h1 {
 
 Input: Starter 199, Standard 349, Premium 499.
 
-Expected Output: Three cards appear in one centered row.
+Output: Three cards appear in one centered row.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

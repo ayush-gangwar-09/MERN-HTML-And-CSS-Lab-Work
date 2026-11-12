@@ -38,7 +38,7 @@ about-me.html
 
 Input: Use your own name.
 
-Expected Output: Your name and two navigation links appear at the top; main and footer are empty.
+Output: Name and two navigation links appear at the top; main and footer are empty.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

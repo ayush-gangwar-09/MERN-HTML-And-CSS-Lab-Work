@@ -63,7 +63,7 @@ marks-average.html
 
 Input: Asha 78/85 and Rohan 64/70.
 
-Expected Output: The footer row shows Maths average 71 and Science average 77.5.
+Output: The footer row shows Maths average 71 and Science average 77.5.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

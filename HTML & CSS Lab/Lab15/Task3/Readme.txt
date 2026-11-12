@@ -63,7 +63,7 @@ p {
 
 Input: Any heading and paragraph.
 
-Expected Output: The heading becomes larger when the viewport is at least 600px wide.
+Output: The heading becomes larger when the viewport is at least 600px wide.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

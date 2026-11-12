@@ -30,7 +30,7 @@ home.html
 
 Input: Link text: portfolio.
 
-Expected Output: Clicking portfolio opens portfolio.html when that file is present.
+Output: Clicking portfolio opens portfolio.html when that file is present.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

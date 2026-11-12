@@ -71,7 +71,7 @@ h1 {
 
 Input: Line 1 through Line 5.
 
-Expected Output: The lines do not all fit in the box at once; the box can be scrolled.
+Output: The lines do not all fit in the box at once; the box can be scrolled.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

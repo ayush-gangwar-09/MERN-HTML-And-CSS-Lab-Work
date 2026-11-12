@@ -91,7 +91,7 @@ p {
 
 Input: Primary #1d3557, accent #e63946, heading size 2rem, spacing 16px.
 
-Expected Output: When linked to a page, body colour, padding, h1 colour and size use the token values.
+Output: When linked to a page, body colour, padding, h1 colour and size use the token values.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

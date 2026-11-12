@@ -32,7 +32,7 @@ portfolio.html
 
 Input: Link text: Back to Home.
 
-Expected Output: The link returns to the home page.
+Output: The link returns to the home page.
 
 Viva-Voce Questions:
 •	1. What is a relative URL?

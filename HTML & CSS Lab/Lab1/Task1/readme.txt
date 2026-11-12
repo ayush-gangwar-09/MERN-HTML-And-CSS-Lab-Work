@@ -1,4 +1,4 @@
-Task 1: Initialize Git repository and configure identity
+Task 1.1: Initialize Git repository and configure identity
 
 Aim: Create a folder named html-lab, initialize Git, set local user name/email, and display the configured values.
 

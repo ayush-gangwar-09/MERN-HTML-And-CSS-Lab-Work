@@ -55,7 +55,7 @@ marks-accessible.html
 
 Input: Asha and Rohan marks.
 
-Expected Output: The table looks similar to marks.html; header and name cells carry scope attributes.
+Output: The table looks similar to marks.html; header and name cells carry scope attributes.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

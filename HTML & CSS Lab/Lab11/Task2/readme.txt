@@ -64,7 +64,7 @@ p {
 
 Input: Main colour #1d3557, accent #e63946 and padding 20px.
 
-Expected Output: The heading uses the accent colour; body text uses the main colour and page padding is applied.
+Output: The heading uses the accent colour; body text uses the main colour and page padding is applied.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

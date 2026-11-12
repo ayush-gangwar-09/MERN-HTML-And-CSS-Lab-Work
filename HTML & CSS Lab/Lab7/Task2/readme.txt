@@ -44,7 +44,7 @@ about-me.html
 
 Input: A short paragraph describing your interests or studies.
 
-Expected Output: The About me heading and paragraph appear under the navigation.
+Output: The About me heading and paragraph appear under the navigation.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

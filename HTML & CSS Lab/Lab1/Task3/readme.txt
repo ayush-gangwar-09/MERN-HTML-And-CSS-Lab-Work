@@ -1,4 +1,4 @@
-Task 3: Add a second heading and view history
+Task 1.3: Add a second heading and view history
 
 Aim: Add an h2 heading below the h1, commit the change and display the one-line history.
 
@@ -40,7 +40,7 @@ Output: Terminal output listing both commits, newest first.
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 
 Viva-Voce Questions:
-•	1. What does git log show?
-•	2. What does --oneline mean?
-•	3. Can a commit be amended?
+1. What does git log show?
+2. What does --oneline mean?
+3. Can a commit be amended?
 

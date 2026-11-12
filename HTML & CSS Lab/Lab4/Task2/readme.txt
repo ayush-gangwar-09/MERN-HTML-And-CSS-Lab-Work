@@ -31,7 +31,7 @@ attributes.html
 
 Input: Paragraph text describing hobbies.
 
-Expected Output: Paragraph text appears; the data-topic attribute is not visible on the page.
+Output: Paragraph text appears; the data-topic attribute is not visible on the page.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

@@ -99,7 +99,7 @@ h1 {
 
 Input: Notebook 60, Pen 15, Bag 350, Book 120.
 
-Expected Output: Cards wrap onto new rows when the browser window is narrow.
+Output: Cards wrap onto new rows when the browser window is narrow.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

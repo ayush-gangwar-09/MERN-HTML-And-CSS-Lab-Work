@@ -44,7 +44,7 @@ about-me.html
 
 Input: Use a valid email address you control or a sample address.
 
-Expected Output: The footer shows a clickable email address and Contact jumps to it.
+Output: The footer shows a clickable email address and Contact jumps to it.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

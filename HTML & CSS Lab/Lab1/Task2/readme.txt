@@ -1,4 +1,4 @@
-Task 2: Create and commit index.html
+Task 1.2: Create and commit index.html
 
 Aim: Create index.html with one h1 heading, check status, stage the file and commit it.
 
@@ -33,7 +33,7 @@ git add index.html
 git commit -m "Add home page"
 
 Input: Sample heading: Welcome to My Home Page.
-                       <p>This is my first HTML page using Git.</p>
+                       This is my first HTML page using Git.
 
 Output: Terminal output showing a successful commit and one file changed.
  

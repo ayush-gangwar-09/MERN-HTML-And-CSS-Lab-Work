@@ -72,7 +72,7 @@ h1 {
 
 Input: Numbers 1 to 6.
 
-Expected Output: Six boxes appear in two rows of three with small gaps.
+Output: Six boxes appear in two rows of three with small gaps.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

@@ -79,7 +79,7 @@ p {
 
 Input: Viewport width determines the 50% box width.
 
-Expected Output: A 200px box, a half-width box and larger text appear.
+Output: A 200px box, a half-width box and larger text appear.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

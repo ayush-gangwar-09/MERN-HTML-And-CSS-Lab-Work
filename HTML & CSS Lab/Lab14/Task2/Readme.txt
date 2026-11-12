@@ -74,7 +74,7 @@ h1 {
 
 Input: Photo 1 through Photo 6.
 
-Expected Output: As the window gets wider, more boxes fit in each row.
+Output: As the window gets wider, more boxes fit in each row.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

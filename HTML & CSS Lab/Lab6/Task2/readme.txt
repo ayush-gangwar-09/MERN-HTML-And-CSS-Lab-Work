@@ -39,7 +39,7 @@ canteen-menu.html
 
 Input: Samosa, Sandwich; nested items Cheese and Vegetable.
 
-Expected Output: Two main numbered items appear, with a smaller numbered list under Sandwich.
+Output: Two main numbered items appear, with a smaller numbered list under Sandwich.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

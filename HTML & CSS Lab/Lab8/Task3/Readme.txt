@@ -55,7 +55,7 @@ signup-required.html
 
 Input: Leave fields blank to test validation, then enter valid values.
 
-Expected Output: The browser displays a validation message when a required field is empty.
+Output: The browser displays a validation message when a required field is empty.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

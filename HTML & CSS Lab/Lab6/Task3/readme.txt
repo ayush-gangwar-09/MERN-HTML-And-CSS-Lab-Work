@@ -36,7 +36,7 @@ faq.html
 
 Input: Questions about borrowing books and Sunday library hours.
 
-Expected Output: Each question is followed by its answer.
+Output: Each question is followed by its answer.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

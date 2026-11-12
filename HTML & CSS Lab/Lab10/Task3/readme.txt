@@ -61,7 +61,7 @@ p {
 
 Input: Any heading and two paragraphs.
 
-Expected Output: The page is styled when style.css is correctly linked.
+Output: The page is styled when style.css is correctly linked.
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
 

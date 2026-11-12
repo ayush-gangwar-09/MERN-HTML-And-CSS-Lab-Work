@@ -79,7 +79,7 @@ h1 {
 
 Input: Two boxes with width 200px, padding 20px and border 5px.
 
-Expected Output: The content-box element is wider than the border-box element.
+Output: The content-box element is wider than the border-box element.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.

@@ -56,7 +56,7 @@ signup.html
 
 Input: Name, email and password entered by the user.
 
-Expected Output: Three labelled fields appear; password characters are hidden when typed.
+Output: Three labelled fields appear; password characters are hidden when typed.
 
 
 Result: The task was performed and the expected output can be verified after running the supplied code/commands.
